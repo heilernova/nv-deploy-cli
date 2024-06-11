@@ -1,7 +1,7 @@
 import { createWriteStream } from "node:fs";
 import archiver from "archiver";
 
-const zipName = "nv-deploy.tar";
+const zipName = "nv-deploy-cli.tar";
 const ouPut = createWriteStream(zipName);
 const archive = archiver("tar");
 
