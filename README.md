@@ -1,1 +1,1 @@
-# [ SM Panel | CLI ]# nv-deploy-cli
+# [ Novah Deploy | CLI ]
