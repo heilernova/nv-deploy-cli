@@ -1,0 +1,6 @@
+/node_modules/
+/build/
+deploy.zip
+config.json
+nv-deploy.json
+nv-deploy-cli.tar
